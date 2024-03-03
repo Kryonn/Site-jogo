@@ -22,3 +22,5 @@ O intuito do projeto foi aprender os fundamentos das linguagens utilizadas.
 ## ✒️ Autor
 
 * **Kevin Nakashima** - [Dev](https://github.com/Kryonn)
+
+###### Obs: O git não permite que haja o upload de um arquivo com mais de 36mb, por isso não foi colocado a pasta do jogo.
